@@ -1,21 +1,36 @@
+/* Global */
+
+body {
+    background: url(../img/footer_lodyas.png);
+}
+
+/* Navigation */
+
+a {
+    background: darkgray;
+    text-decoration: none;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+
+li {
+    display: inline;
+    float: 
+}
+/* Layout */
+
+/* Typography */
+
 h1 {
         color: whitesmoke;
     text-transform: uppercase;
     letter-spacing: 2px;
 }
 
+
+/* Images */
+
 img {
    width: 50%; 
-}
-
-body {
-    background: url(../img/footer_lodyas.png);
-}
-
-/*****************************
-Footer Edits
-*****************************/
-
-footer {
-    
 }
