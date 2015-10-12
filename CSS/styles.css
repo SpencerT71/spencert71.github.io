@@ -1,5 +1,7 @@
 h1 {
-    color: rgba(0,0,0,.5);
+        color: whitesmoke;
+    text-transform: uppercase;
+    letter-spacing: 2px;
 }
 
 img {
@@ -8,4 +10,12 @@ img {
 
 body {
     background: url(../img/footer_lodyas.png);
+}
+
+/*****************************
+Footer Edits
+*****************************/
+
+footer {
+    
 }
