@@ -35,9 +35,11 @@ h1, h2 {
     color: whitesmoke;
     text-transform: uppercase;
     letter-spacing: 2px;
-    font-family: 'Roboto Slab', serif;
 }
 
+h1 {
+    font-family: 'Roboto Slab', serif;
+}
 
 /* Images */
 
