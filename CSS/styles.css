@@ -19,7 +19,8 @@ a:link, a:visited {
 }
 
 a:hover {
-    color: whitesmoke
+    color: whitesmoke;
+    
 }
 
 li {
@@ -31,9 +32,10 @@ li {
 /* Typography */
 
 h1, h2 {
-        color: whitesmoke;
+    color: whitesmoke;
     text-transform: uppercase;
     letter-spacing: 2px;
+    font-family: 'Roboto Slab', serif;
 }
 
 
