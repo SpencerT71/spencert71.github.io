@@ -18,6 +18,10 @@ a:link, a:visited {
     color: crimson;
 }
 
+a:hover {
+    color: whitesmoke
+}
+
 li {
     display: inline;
     float: 
@@ -26,7 +30,7 @@ li {
 
 /* Typography */
 
-h1 {
+h1, h2 {
         color: whitesmoke;
     text-transform: uppercase;
     letter-spacing: 2px;
