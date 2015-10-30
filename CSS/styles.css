@@ -30,9 +30,6 @@ li {
 
 /* Layout */
 
-#me {
-    border-radius: 50%;
-}
 
 /* Typography */
 
@@ -53,14 +50,24 @@ P {
 /* Images */
 
 img {
-   width: 50%; 
     max-width: 100%;
 }
 
 #fblogo {
     border-radius: 25%;
+    width: 50%
 }
 
 #twitlogo {
     border-radius: 25%;
+    width: 50%;
+}
+
+#instlogo {
+    width: 50%;
+}
+
+#me {
+    border-radius: 50%;
+    width: 20%;
 }
