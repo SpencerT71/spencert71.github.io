@@ -43,10 +43,14 @@ h1 {
     background-color: darkgray;
 }
 
+P {
+    color: whitesmoke;
+}
 /* Images */
 
 img {
    width: 50%; 
+    max-width: 100%;
 }
 
 #fblogo {
