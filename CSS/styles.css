@@ -30,6 +30,10 @@ li {
 
 /* Layout */
 
+#me {
+    border-radius: 50%;
+}
+
 /* Typography */
 
 h1, h2 {
