@@ -49,3 +49,10 @@ img {
    width: 50%; 
 }
 
+#fblogo {
+    border-radius: 25%;
+}
+
+#twitlogo {
+    border-radius: 25%;
+}
