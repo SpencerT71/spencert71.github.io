@@ -7,7 +7,6 @@ body {
 /* Navigation */
 
 a {
-    background: darkgray;
     text-decoration: none;
     display: inline-block;
     width: 100px;
@@ -25,8 +24,10 @@ a:hover {
 
 li {
     display: inline;
-    float: 
 }
+
+
+
 /* Layout */
 
 /* Typography */
@@ -39,6 +40,7 @@ h1, h2 {
 
 h1 {
     font-family: 'Roboto Slab', serif;
+    background-color: darkgray;
 }
 
 /* Images */
@@ -47,14 +49,3 @@ img {
    width: 50%; 
 }
 
-#fblogo {
-    width: 5%;
-}
-
-#instlogo {
-    width: 5%;
-}
-
-#twitlogo {
-    width: 5%;
-}
