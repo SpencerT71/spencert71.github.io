@@ -22,11 +22,13 @@ a:hover {
     
 }
 
-li {
+nav li {
     display: inline;
 }
 
-
+li {
+    list-style: none;
+}
 
 /* Layout */
 
