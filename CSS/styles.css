@@ -32,6 +32,10 @@ li {
 
 /* Layout */
 
+header h1, h2{
+    text-align: center;
+}
+
 footer section{
     text-align: center;
 }
@@ -75,4 +79,5 @@ img {
 #me {
     border-radius: 50%;
     width: 20%;
+    align-content: center;
 }
