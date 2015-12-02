@@ -15,11 +15,11 @@ a {
 
 a:link, a:visited {
     color: crimson;
+    transition: color .5s;
 }
 
 a:hover {
     color: black;
-    
 }
 
 nav li {
