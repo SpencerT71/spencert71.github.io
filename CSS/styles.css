@@ -83,3 +83,14 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
+
+/*Gallery*/
+
+.gallery {
+    height: 600px;
+    width: 400px;
+}
+
+.gallery .item {
+    background: none;
+}
