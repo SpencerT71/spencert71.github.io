@@ -15,11 +15,11 @@ a {
 
 a:link, a:visited {
     color: crimson;
+    transition: color .5s;
 }
 
 a:hover {
     color: black;
-    
 }
 
 nav li {
@@ -82,4 +82,15 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+/*Gallery*/
+
+.gallery {
+    height: 600px;
+    width: 400px;
+}
+
+.gallery .item {
+    background: none;
 }
