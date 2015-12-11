@@ -95,18 +95,24 @@ img {
 
 /* Icons */
 
-#home {
+#home, #person, #resume {
     position: absolute;
     width: 3%;
+}
+
+#person {
+    top: 25px;
+    left: 149px;
+}
+
+#home {
     top: 23px;
     right: 650px;
 }
 
-#person {
-    position: absolute;
-    width: 3%;
+#resume {
     top: 25px;
-    left: 149px;
+    left: 253px;
 }
 
 /*Gallery*/
