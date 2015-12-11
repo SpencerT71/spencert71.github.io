@@ -8,3 +8,6 @@ http://tympanus.net/codrops/2011/12/26/css3-lightbox/
 
 navigation styling:
 http://djackson13.github.io/p1-bio/
+
+All Icons thanks to:
+http://iconmonstr.com/
