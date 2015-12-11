@@ -95,7 +95,7 @@ img {
 
 /* Icons */
 
-#home, #person, #resume {
+#home, #person, #resume, #portfolio {
     position: absolute;
     width: 3%;
 }
@@ -111,8 +111,13 @@ img {
 }
 
 #resume {
-    top: 25px;
+    top: 24px;
     left: 253px;
+}
+
+#portfolio {
+    top: 24px;
+    left: 356px;
 }
 
 /*Gallery*/
