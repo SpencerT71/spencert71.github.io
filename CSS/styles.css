@@ -62,6 +62,7 @@ h2 {
     letter-spacing: 2px;
     font-family: 'Roboto Slab', serif;
     background-color: #590212;
+    max-width: 100%;
 }
 
 h1 {
