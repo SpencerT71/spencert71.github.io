@@ -106,3 +106,13 @@ img {
 .gallery .item {
     background: none;
 }
+
+/* Attribute selectors */
+
+a[href^="https://"] {
+    color: #590212;
+}
+
+a[href^="http://"] {
+    color: #590212;
+}
