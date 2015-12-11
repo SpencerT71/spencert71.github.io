@@ -19,7 +19,8 @@ nav a {
 
 a:link, a:visited {
     color: white;
-    transition: color .5s;
+    transition: all .5s;
+    padding: 10px 20px;
 }
 
 a:hover {
