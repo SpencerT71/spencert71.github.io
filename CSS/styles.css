@@ -93,7 +93,7 @@ img {
     margin-right: auto;
 }
 
-/* Icons */
+/* Nav Icons */
 
 #home, #person, #resume, #portfolio {
     position: absolute;
@@ -118,6 +118,17 @@ img {
 #portfolio {
     top: 24px;
     left: 356px;
+}
+
+/* Page Icons*/
+
+#home-2 {
+    position: absolute;
+    width: 13%;
+    background: #590212;
+    border-radius: 24%;
+    top: 33px;
+    right: 10px;
 }
 
 /*Gallery*/
