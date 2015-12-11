@@ -122,13 +122,18 @@ img {
 
 /* Page Icons*/
 
-#home-2 {
+#home-2, #portfolio-2 {
     position: absolute;
     width: 13%;
     background: #590212;
+    padding: 0px 7px;
     border-radius: 24%;
     top: 33px;
     right: 10px;
+}
+
+#portfolio-2 {
+    right: 8px;
 }
 
 /*Gallery*/
