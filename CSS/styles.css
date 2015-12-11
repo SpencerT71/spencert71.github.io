@@ -99,7 +99,7 @@ img {
 
 /* Nav Icons */
 
-#home, #person, #resume, #portfolio {
+#home, #person, #resume, #portfolio, #contact {
     position: absolute;
     width: 1.5%;
 }
@@ -125,6 +125,11 @@ img {
     left: 353px;
 }
 
+#contact {
+    top: 24px;
+    left: 458px;
+}
+
 /* Page Icons*/
 
 #home-2, #portfolio-2, #resume-2, #person-2 {
@@ -145,11 +150,3 @@ img {
 
 
 /* Attribute selectors */
-
-a[href^="https://"] {
-    color: #590212;
-}
-
-a[href^="http://"] {
-    color: #590212;
-}
