@@ -59,16 +59,12 @@ h1, h2 {
     color: black;
     text-transform: uppercase;
     letter-spacing: 2px;
-}
-
-h1 {
     font-family: 'Roboto Slab', serif;
     background-color: darkgray;
 }
 
-P {
-    color: black;
-}
+
+
 /* Images */
 
 img {
@@ -139,14 +135,6 @@ img {
 
 /*Gallery*/
 
-.gallery {
-    height: 600px;
-    width: 400px;
-}
-
-.gallery .item {
-    background: none;
-}
 
 /* Attribute selectors */
 
