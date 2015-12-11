@@ -150,3 +150,10 @@ img {
 
 
 /* Attribute selectors */
+
+img[src*="216-pro2"] {
+    height: 400px;
+    width: 400px;
+    position: relative;
+    left: 75px;
+}
