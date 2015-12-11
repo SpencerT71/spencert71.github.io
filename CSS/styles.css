@@ -13,12 +13,17 @@ a {
     height: 100px;
 }
 
+nav a {
+    background-color: black;
+}
+
 a:link, a:visited {
     color: crimson;
     transition: color .5s;
 }
 
 a:hover {
+    background-color: #590212;
     color: black;
 }
 
