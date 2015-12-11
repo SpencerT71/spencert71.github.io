@@ -93,11 +93,20 @@ img {
     margin-right: auto;
 }
 
+/* Icons */
+
 #home {
     position: absolute;
     width: 3%;
     top: 23px;
     right: 650px;
+}
+
+#person {
+    position: absolute;
+    width: 3%;
+    top: 25px;
+    left: 149px;
 }
 
 /*Gallery*/
