@@ -4,8 +4,6 @@ body {
     background: url(../img/concrete_seamless.png);
 }
 
-/* Navigation */
-
 a {
     text-decoration: none;
     display: inline-block;
@@ -13,17 +11,22 @@ a {
     height: 39px;
 }
 
+li {
+    list-style: none;
+}
+/* Navigation */
+
 nav a {
     background-color: #590212;
 }
 
-a:link, a:visited {
+nav a:link, a:visited {
     color: white;
     transition: all .5s;
     padding: 10px 20px;
 }
 
-a:hover {
+nav a:hover {
     background-color: white;
     color: #590212;
 }
@@ -32,9 +35,6 @@ nav li {
     display: inline;
 }
 
-li {
-    list-style: none;
-}
 
 nav ul {
     width: 100%;
@@ -76,7 +76,7 @@ img {
 
 #fblogo {
     border-radius: 25%;
-    width: 50%
+    width: 50%;
 }
 
 #twitlogo {
