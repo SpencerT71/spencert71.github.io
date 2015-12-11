@@ -47,6 +47,7 @@ nav ul {
 
 header h1, h2{
     text-align: center;
+    padding: 5px 0px;
 }
 
 footer section{
@@ -55,15 +56,21 @@ footer section{
 
 /* Typography */
 
-h1, h2 {
+h2 {
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-family: 'Roboto Slab', serif;
+    background-color: #590212;
+}
+
+h1 {
     color: black;
     text-transform: uppercase;
     letter-spacing: 2px;
     font-family: 'Roboto Slab', serif;
-    background-color: darkgray;
+    background-color: grey;
 }
-
-
 
 /* Images */
 
