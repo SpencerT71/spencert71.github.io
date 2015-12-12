@@ -158,18 +158,15 @@ img[src*="Flare"] {
 /* Respnsive Design */
 
 @media screen and (max-width: 600px) {
-    body {
-        background: crimson;
-    }
     #me, #home, #person, #resume, #portfolio, #contact, #home-2, #portfolio-2, #resume-2, #person-2  {
         opacity: 0;
+    }
+    a {
+        width: 75px;
     }
 }
 
 @media screen and (max-width: 1125px) {
-    body {
-        background: blue;
-    }
     #home, #person, #resume, #portfolio, #contact {
         opacity: 0;
     }
