@@ -164,6 +164,11 @@ img[src*="Flare"] {
     a {
         width: 75px;
     }
+    .gallery .item {
+        height: auto;
+        width: auto;
+        float: center;
+    }
 }
 
 @media screen and (max-width: 1125px) {
@@ -173,7 +178,7 @@ img[src*="Flare"] {
 }
 
 @media screen and (max-width: 1000px) {
-    .item {
-        width: 75%;
+   .gallery .item {
+        left: 150px;
     }
 }
