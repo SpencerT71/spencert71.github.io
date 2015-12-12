@@ -151,4 +151,6 @@ img {
 
 /* Attribute selectors */
 
-
+img[src*="Flare"] {
+    width: 55%;
+}
