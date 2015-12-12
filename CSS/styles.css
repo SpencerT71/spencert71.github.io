@@ -166,7 +166,7 @@ img[src*="Flare"] {
     }
 }
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 1125px) {
     body {
         background: blue;
     }
