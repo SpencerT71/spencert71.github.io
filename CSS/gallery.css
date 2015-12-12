@@ -1,7 +1,6 @@
 .gallery {
   position: relative;
-  height: 650px; 
-
+  height: 650px;
 }
 
 .gallery .item {
@@ -9,7 +8,7 @@
   top: 0;
   left: 250px;
   width: 50%;
-  height: 50%;
+  height: 100%;
   background: #590212;
   opacity: 0;
   transition: opacity 0.25s;
@@ -27,6 +26,7 @@
     width: 100%;
     font-size: 2em;
     text-align: center;
+     
 }
 
 .gallery .controls a {
@@ -80,4 +80,21 @@
 .gallery .control-operator:nth-of-type(9):target ~ .item:nth-of-type(9),
 .gallery .control-operator:nth-of-type(10):target ~ .item:nth-of-type(10) {
   opacity: 1; 
+}
+
+.gallery {
+  height: 500px;
+}
+.item {
+  text-align: center;
+}
+
+.item img {
+  width: 400px;  
+}
+
+.controls img {
+  width: 70px;
+    position: relative;
+    top: 100px
 }
