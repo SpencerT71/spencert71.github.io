@@ -45,7 +45,7 @@ nav ul {
 
 /* Layout */
 
-header h1, h2{
+header h1, h2, h3{
     text-align: center;
     padding: 5px 0px;
 }
@@ -72,6 +72,15 @@ h1 {
     letter-spacing: 2px;
     font-family: 'Roboto Slab', serif;
     background-color: grey;
+}
+
+h3 {
+   color: white;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-family: 'Roboto Slab', serif;
+    background-color: #590212;
+    max-width: 100%; 
 }
 
 /* Images */
