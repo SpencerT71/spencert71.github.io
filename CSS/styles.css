@@ -154,3 +154,14 @@ img {
 img[src*="Flare"] {
     width: 55%;
 }
+
+/* Respnsive Design */
+
+@media screen and (max-width: 600px) {
+    body {
+        background: crimson;
+    }
+    img {
+        opacity: 0;
+    }
+}
