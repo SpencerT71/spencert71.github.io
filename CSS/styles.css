@@ -45,7 +45,7 @@ nav ul {
 
 /* Layout */
 
-header h1, h2, h3{
+header h1, h2, .sub_head{
     text-align: center;
     padding: 5px 0px;
 }
@@ -74,7 +74,7 @@ h1 {
     background-color: grey;
 }
 
-h3 {
+.sub_head {
    color: white;
     text-transform: uppercase;
     letter-spacing: 2px;
